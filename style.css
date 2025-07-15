@@ -1,5 +1,14 @@
 /* Global styles */
 
 * {
-font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 };
+
+/*Element styles*/
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    padding: 20%;
+}
