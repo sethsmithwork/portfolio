@@ -4,7 +4,7 @@ $textcolor: darkgray;
 
 /* Styling */
 
-#title {
+.title {
 font-family: Arial, Helvetica, sans-serif;
 color: $textcolor
 }
