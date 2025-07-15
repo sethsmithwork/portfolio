@@ -1,9 +1,5 @@
-/* Global variables */
+/* Global styles */
 
-
-
-/* Styling */
-
-.title {
+* {
 font-family: Arial, Helvetica, sans-serif;
-}
+};
