@@ -22,11 +22,13 @@
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
+body {
+   background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255) 0%, rgb(196, 207, 252));
+}
 .page-content {
   padding-top: 100px;
   padding-right: 15%;
   padding-left: 15%;
-  background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255) 0%, rgb(196, 207, 252));
   pointer-events: auto;
 }
 
