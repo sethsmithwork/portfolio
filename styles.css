@@ -23,7 +23,7 @@
 }
 
 body {
-   background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255) 0%, rgb(196, 207, 252));
+   background-image: linear-gradient(white, rgb(196, 207, 252));
 }
 .page-content {
   padding-top: 100px;
@@ -40,7 +40,11 @@ nav {
   display: flex;
   overflow: visible;
   padding-top: 40px;
-  background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255) 0%);
+  background-image: linear-gradient(white, rgba(255, 255, 255, 0));
+  justify-content: center;
+  flex-direction: row;
+  align-items: flex-start;
+  min-height: 80px;
 }
 
 .dropbtn {
